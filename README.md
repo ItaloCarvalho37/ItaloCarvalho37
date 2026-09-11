@@ -10,7 +10,6 @@
 
 - JavaScript
 - HTML
-- CSS
 - Git & GitHub
 - Fundamentos de programação
 
@@ -36,7 +35,6 @@ Construir uma carreira na área de tecnologia, desenvolver experiência prática
 
 - JavaScript
 - HTML
-- CSS
 - Git & GitHub
 - Programming fundamentals
 
