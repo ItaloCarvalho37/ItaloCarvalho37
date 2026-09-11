@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá! Eu sou o Italo 👋
 
-<!--
-**ItaloCarvalho37/ItaloCarvalho37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Desenvolvedor em formação  
+🌱 Atualmente aprendendo JavaScript  
+🚀 Construindo meus primeiros projetos  
+📚 Sempre buscando aprender e evoluir
 
-Here are some ideas to get you started:
+## 🛠️ Atualmente estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
+- Fundamentos de programação
+
+## 🎯 Objetivo
+
+Construir uma carreira na área de tecnologia, desenvolver experiência prática e evoluir continuamente como desenvolvedor.
+
+---
+
+> "Pequenos passos também constroem grandes sonhos."
+>
+> -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>
+> # Hi! I'm Italo 👋
+
+🎓 Computer Science student  
+💻 Developer in training  
+🌱 Currently learning JavaScript  
+🚀 Building my first projects  
+📚 Always learning and improving
+
+## 🛠️ Currently learning
+
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
+- Programming fundamentals
+
+## 🎯 Goal
+
+To build a career in technology, gain practical experience, and continuously grow as a developer.
+
+---
+
+> "Small steps also build great dreams."
